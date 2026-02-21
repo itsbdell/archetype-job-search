@@ -1,0 +1,11 @@
+# User-generated data (created by /setup and other commands)
+materials/
+archetypes/
+companies/
+applications/
+
+# Note: trackers/*.csv ship with headers only and are intentionally tracked.
+# Git won't overwrite local changes on pull, so user data stays local.
+
+# OS files
+.DS_Store
